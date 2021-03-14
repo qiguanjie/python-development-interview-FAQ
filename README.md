@@ -6,7 +6,8 @@
 >
 >> 本文的GitHub地址为：[python-development-interview-FAQ](https://github.com/qiguanjie/python-development-interview-FAQ)
 >>
->> CSDN暂未发布，发布时再加上链接。
+>> CSDN地址为：[python后端开发面试常见问题 (持续更新)](https://qiguanjie.blog.csdn.net/article/details/114789666)
+>>
 >>
 >> 如果有帮助的话，可以在GitHub上点个star，支持下。相对来说GitHub更新要比CSDN上更新更快一些。
 >
