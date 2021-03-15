@@ -128,7 +128,7 @@ print(a._A__c) # 输出：self.__c
 
 ## 5 python字符串传参 %s和format
 
-%s和format的区别在于，format可以传递列表、元组等类型，而%s不可以，所以在日常使用时，使用format更加方便
+%s和format的区别在于，format可以传递列表、元组等类型，而%s不可以传递元组类型（%s可以传递列表类型），所以在日常使用时，使用format更加方便
 
 
 
@@ -322,6 +322,7 @@ ret = extern_func('qiguanjie')()
 def extern_func(name):
     print('exter_func name is : %s' % name)
     def inner_func():
+        nonlocal name
         name = 'inner_func ' + name
         print('inner_func name is : %s' % name)
     return inner_func
