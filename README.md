@@ -2,12 +2,11 @@
 
 >>&emsp; 大家好，我叫亓官劼（qí guān jié ），在GitHub和CSDN中记录学习的点滴历程，时光荏苒，未来可期，一起加油~~
 >
->本篇文章将在GitHub和CSDN上持续更新，主要是Python后端开发的一些常见问题，包括Python的一些基础知识，以及面试中常问的计网，数据库，数据结构等一些算法题，总体覆盖面试的大多数问题。这里分为Python基础、计算机网络相关、数据库相关、Linux相关、数据结构与算法和其他共六部分进行整理。
+>本篇文章将在GitHub、微信公众号、CSDN上持续更新，主要是Python后端开发的一些常见问题，分为Python基础、计算机网络相关、数据库相关、Linux相关、数据结构与算法和其他共六部分进行整理，总体覆盖面试的大多数问题。
 >
 >> 本文的GitHub地址为：[python-development-interview-FAQ](https://github.com/qiguanjie/python-development-interview-FAQ)
 >> CSDN地址为：[python后端开发面试常见问题 (持续更新)](https://qiguanjie.blog.csdn.net/article/details/114789666)
->>>
->> > 微信公众号为：【亓官劼】
+>> 微信公众号为：【亓官劼】
 >
 >
 >> 如果有帮助的话，可以在GitHub上点个star，支持下。相对来说GitHub更新要比CSDN上更新更快一些。
